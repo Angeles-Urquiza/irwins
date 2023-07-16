@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1689209676 source:c:\users\maru\documents\irwins\main.cpp
+	<iostream>
+	"funciones1.h"
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+	<locale.h>
+
+1688951916 c:\users\maru\documents\irwins\funciones1.h
+
+1688947968 source:c:\users\maru\documents\irwins\funciones1.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<windows.h>
+	"funciones1.h"
+	"rlutil.h"
+
+1571584339 source:c:\users\maru\documents\irwins\test.cpp
+	"rlutil.h"
+	<algorithm>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1687390286 c:\users\maru\documents\irwins\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
